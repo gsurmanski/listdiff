@@ -6,5 +6,5 @@ Difference Tool
 
 - Each list is then duplicated as a set so each list can be compared with each opposite set. Slightly better efficiency.
 
-![alt text](https://github.com/gsurmanski/listdiff/blob/master/screenshot.PNG?raw=true)
+![alt text](https://github.com/gsurmanski/listdiff/blob/master/screenshot.png?raw=true)
 
